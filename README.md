@@ -13,7 +13,7 @@ Chinese Name: 林澈
 
 Japanese Name: 小林 徹 (音讀み：こばやし あきら Kobayashi Akira)
 
-> @SerokSSR prefers to be called by 訓讀：りん あきら Lin Akira。
+> @SerokSSR prefers to be called by 訓讀み：りん あきら Lin Akira。
 
 ## What am I?
 
