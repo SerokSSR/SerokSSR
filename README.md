@@ -2,18 +2,15 @@
 
 ## Who am I? 
 
-English Name: SerokSSR (Serok Super Rare)
+English Name: SerokSSR
 
 Chinese Name: 林澈
 
-> Other Nicknames: 
+> Other nicknames also being used: 
 > - 特特特漂亮呀 (Te-te-te Piaoliang Ya)
 > - 晨汐 (Chen Tsi)
 > - 灵希 (Ling Tsi)
-
-Japanese Name: 小林 徹 (音讀み：こばやし あきら Kobayashi Akira)
-
-> @SerokSSR prefers to be called by 訓讀み：りん あきら Lin Akira。
+> - SHIROKU (シロク)
 
 ## What am I?
 
