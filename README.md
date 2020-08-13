@@ -2,9 +2,7 @@
 
 ## Who am I? 
 
-English Name: SerokSSR
-
-Chinese Name: 林澈
+Name(Unreal): 林澈
 
 > Other nicknames also being used: 
 > - 特特特漂亮呀 (Te-te-te Piaoliang Ya)
