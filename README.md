@@ -1,6 +1,6 @@
 # SerokSSR
 
-## Who am I? 
+---
 
 Name(Unreal): 林澈
 
@@ -10,17 +10,15 @@ Name(Unreal): 林澈
 > - 灵希 (Ling Tsi)
 > - SHIROKU (シロク)
 
-## What am I?
+---
 
 **A senior high student, fighting for 2022 GaoKao.**
 
 Personal Blog: [Serok's Blog](https://snow.js.org/).
 
-## What do I hope for?
+---
 
-「九死南荒吾不恨，兹游奇绝冠平生」
-
-新しいターミナル、万事勝意 :star:
+九死南荒吾不恨，兹游奇绝冠平生。
 
 <!--
 **Srkeo/Srkeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
