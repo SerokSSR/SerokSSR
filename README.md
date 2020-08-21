@@ -1,5 +1,9 @@
 # SerokSSR
 
+**A senior high student, fighting for 2022 GaoKao.**
+
+Personal Blog: [Serok's Blog](https://snow.js.org/).
+
 ---
 
 Name(Unreal): 林澈
@@ -9,12 +13,6 @@ Name(Unreal): 林澈
 > - 晨汐 (Chen Tsi)
 > - 灵希 (Ling Tsi)
 > - SHIROKU (シロク)
-
----
-
-**A senior high student, fighting for 2022 GaoKao.**
-
-Personal Blog: [Serok's Blog](https://snow.js.org/).
 
 ---
 
