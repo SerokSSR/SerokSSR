@@ -1,12 +1,6 @@
-# SerokSSR
-
-Name(Unreal): 林澈
-
-Identity:
+- [Personal Blog](https://snow.js.org/)
 - 创作者
-- OIer (已退役)
+- OIer | NOIP2020 1= AFO
 - 游戏热爱者
-- 高中学生
 - 2022 高考
-
-[Personal Blog](https://snow.js.org/).
+- 现居天津 | 来自天津 | 咸鱼批发公司 | 学生
