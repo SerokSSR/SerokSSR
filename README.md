@@ -1,6 +1,6 @@
-- [Personal Blog](https://snow.js.org/)
-- 创作者
-- OIer | NOIP2020 1= AFO
+- [My Blog](https://snow.js.org/)
 - 游戏热爱者
+- 创作者
+- OIer | NOIP2020 AFO
 - 2022 高考
 - 现居天津 | 来自天津 | 咸鱼批发公司 | 学生
